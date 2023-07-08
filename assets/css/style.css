@@ -8,6 +8,10 @@ Description: This Template is created for web template
 ======================================================================= */
 /* ===================================== Import Less ================================== */
 
+@media print {
+  body {-webkit-print-color-adjust: exact;}
+  }
+
 html,body
 {
     width: 100%;
