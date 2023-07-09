@@ -1,3 +1,1 @@
-[Check out my CV](https://anfisou.github.io/en/)
-
-[Vê o meu CV](https://anfisou.github.io/pt/)
+[Go check it out](https://anfisou.github.io/)
