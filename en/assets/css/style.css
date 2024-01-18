@@ -411,12 +411,12 @@ body {
         margin-right: 0px; }
 .rit-cover .education {
   padding: 20px 0px;
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-  column-count: 2; 
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3; 
   }
   .rit-cover .education ul{
-    width: 630px;
+    width: 430px;
   }
     .rit-cover .education ul li{
       box-shadow: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
@@ -424,10 +424,13 @@ body {
       background-color: #ecebeb3d;
       padding: 10px 10px;
       font-size: .9rem;
-      height: 190px;
+      height: 230px;
     }
       .rit-cover .education ul li span {
         font-size: .8rem; }
+      .rit-cover .education p{
+        font-size: 13px;
+      }
 .rit-cover .experience {
   padding: 20px 0px;
   -webkit-column-count: 3;
